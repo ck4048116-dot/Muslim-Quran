@@ -1,0 +1,6 @@
+{
+  "name": "Muslim Quran",
+  "description": "Accurate Muslim calendar with AD days & Friday special, prayer times with notifications, Quran recitation with customizable reminders, and counting tasbih.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
